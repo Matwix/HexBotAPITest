@@ -1,0 +1,12 @@
+{
+  "server": {
+    "baseDir": [
+      "./src"
+    ],
+    "routes": {
+      "/vendor": "./node_modules"
+    }
+  },
+  "cors": true,
+  "notify": false
+}
